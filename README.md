@@ -201,13 +201,29 @@ The app (`streamlit_app.py`) provides **11 pages** accessible from the sidebar, 
 
 ### 📸 Screenshots
 
-| Sales Dashboard | RFM Segments |
+| Sales Dashboard | Geography |
 |:---:|:---:|
-| ![Sales Dashboard](Dashboard.png) | ![RFM Segments](RFM%20Segments.png) |
+| ![Sales Dashboard](Dashboard.png) | ![Geography](Geography.png) |
 
-| ML Segmentation (K-Means) | Predict a Customer |
+| Products | RFM Segments |
 |:---:|:---:|
-| ![ML Segmentation](ML%20segmentation.png) | ![Predict a Customer](Preadict%20a%20Customer.png) |
+| ![Products](Products.png) | ![RFM Segments](RFM%20Segments.png) |
+
+| Cohort Retention | ML Segmentation (K-Means) |
+|:---:|:---:|
+| ![Cohort Retention](Cohort%20Retention.png) | ![ML Segmentation](ML%20segmentation.png) |
+
+| Classification | Test (Last 2 Months) |
+|:---:|:---:|
+| ![Classification](Classification.png) | ![Test on Last 2 Months](Testing.png) |
+
+| Predict a Customer | Customer Lookup |
+|:---:|:---:|
+| ![Predict a Customer](Preadict%20a%20Customer.png) | ![Customer Lookup](Customer%20Lookup.png) |
+
+| Data Explorer |
+|:---:|
+| ![Data Explorer](Data%20Explorer.png) |
 
 ---
 
