@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛍️ Customer Segmentation — E-commerce Analytics & ML Dashboard
 
 > Segment online-retail customers with **K-Means**, then predict a new customer's segment **from their very first purchase** — explored in a Jupyter Notebook and delivered as an interactive **Streamlit dashboard**.
@@ -204,11 +203,11 @@ The app (`streamlit_app.py`) provides **11 pages** accessible from the sidebar, 
 
 | Sales Dashboard | RFM Segments |
 |-----------------|--------------|
-| ![Sales Dashboard](screenshots/Dashboard.png) | ![RFM Segments](screenshots/RFM_Segments.png) |
+| ![Sales Dashboard](Dashboard.png) | ![RFM Segments](RFM_Segments.png) |
 
 | ML Segmentation (K-Means) | Predict a Customer |
 |---------------------------|--------------------|
-| ![ML Segmentation](screenshots/ML_segmentation.png) | ![Predict a Customer](screenshots/Predict_a_Customer.png) |
+| ![ML Segmentation](ML_segmentation.png) | ![Predict a Customer](Predict_a_Customer.png) |
 
 ---
 
@@ -320,15 +319,14 @@ Run the cells from top to bottom.
 ## 👤 Author
 
 **Gaurav Rajpoot**
-B.Tech (CSE – AI/ML), IMS Engineering College, Ghaziabad
+B.Tech 2027 (CSE – AI/ML), IMS Engineering College, Ghaziabad
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
+- GitHub:  https://github.com/Gauravrajpoot9
+- LinkedIn: www.linkedin.com/in/-518109295
+- Email: gauravrajpootsd8@gmail.com 
 
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
 =======
-# Customer-Segmentation-Using-Python-and-Streamlit
->>>>>>> c23360f02f24f1c8fed6af54ff74984a31ffeb38
+
