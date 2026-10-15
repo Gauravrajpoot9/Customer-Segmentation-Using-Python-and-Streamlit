@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛍️ Customer Segmentation — E-commerce Analytics & ML Dashboard
 
 > Segment online-retail customers with **K-Means**, then predict a new customer's segment **from their very first purchase** — explored in a Jupyter Notebook and delivered as an interactive **Streamlit dashboard**.
@@ -328,3 +329,6 @@ B.Tech (CSE – AI/ML), IMS Engineering College, Ghaziabad
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
+=======
+# Customer-Segmentation-Using-Python-and-Streamlit
+>>>>>>> c23360f02f24f1c8fed6af54ff74984a31ffeb38
